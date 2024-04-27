@@ -1,0 +1,30 @@
+[
+    {
+        "merk": "Toyota",
+        "type": "sedan",
+        "stock": 4,
+        "price": 90000000,
+        "description": "Mobil Bekas tapi minus AC"
+    },
+    {
+        "merk": "Honda",
+        "type": "SUV",
+        "stock": 2,
+        "price": 230000000,
+        "description": "Barang seperti baru, siap pakai brooo"
+    },
+    {
+        "merk": "Daihatsu",
+        "type": "sedan",
+        "stock": 3,
+        "price": 80000000,
+        "description": "Minus AC dan belum pernah di turun mesin"
+    },
+    {
+        "merk": "BMW",
+        "type": "sedan",
+        "stock": 7,
+        "price": 140000000,
+        "description": "Pernah kena banjir tapi barang masih oke"
+    }
+]
